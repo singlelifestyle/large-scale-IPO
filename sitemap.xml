@@ -3,31 +3,31 @@
 
   <!-- トップページ -->
   <url>
-    <loc>https://ユーザー名.github.io/ipo-insider/</loc>
-    <lastmod>2025-06-18</lastmod>
+    <loc>https://singlelifestyle.github.io/large-scale-IPO/</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- IPO予定セクション -->
   <url>
-    <loc>https://ユーザー名.github.io/ipo-insider/#ipo-plans</loc>
-    <lastmod>2025-06-18</lastmod>
+    <loc>https://singlelifestyle.github.io/large-scale-IPO/#ipo-plans</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <!-- SpaceX当落結果セクション -->
   <url>
-    <loc>https://ユーザー名.github.io/ipo-insider/#spacex-result</loc>
-    <lastmod>2025-06-18</lastmod>
+    <loc>https://singlelifestyle.github.io/large-scale-IPO/#spacex-result</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- テスラ事例セクション -->
   <url>
-    <loc>https://ユーザー名.github.io/ipo-insider/#tesla-case</loc>
+    <loc>https://singlelifestyle.github.io/large-scale-IPO/#tesla-case</loc>
     <lastmod>2025-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -35,16 +35,16 @@
 
   <!-- 証券会社比較セクション -->
   <url>
-    <loc>https://ユーザー名.github.io/ipo-insider/#broker</loc>
-    <lastmod>2025-06-18</lastmod>
+    <loc>https://singlelifestyle.github.io/large-scale-IPO/#broker</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <!-- まとめセクション -->
   <url>
-    <loc>https://ユーザー名.github.io/ipo-insider/#summary</loc>
-    <lastmod>2025-06-18</lastmod>
+    <loc>https://singlelifestyle.github.io/large-scale-IPO/#summary</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
